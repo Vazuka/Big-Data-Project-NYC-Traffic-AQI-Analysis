@@ -1,2 +1,0 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
-NYC_Traffic_Part_* filter=lfs diff=lfs merge=lfs -text
